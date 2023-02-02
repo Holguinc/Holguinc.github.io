@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: 
-  # - title: "Current Research"
-  #   url:
-  # - title: "Research Experience"
-  #   url: 
-  # - title: "Curriculum Vitae"
-  #   url: 
-  # - title: "Leadership & Outreach"
-  #   url: 
+  - title: "Current Research"
+    url:
+  - title: "Research Experience"
+    url: 
+  - title: "Curriculum Vitae"
+    url: 
+  - title: "Leadership & Outreach"
+    url: 
