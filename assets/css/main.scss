@@ -7,5 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | contrast: 'contrast' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-jekyll serve --config _alternative_config.yml
