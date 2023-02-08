@@ -2,9 +2,12 @@
 main:
   - title: "Current Research"
     url: /CurrentResearch/
+    
   - title: "Research Experience"
     url: /Research/
+    
   - title: "Curriculum Vitae"
     url: /CurrentResearch/
+    
   - title: "Leadership & Outreach"
     url: /Leadership&Outreach/
