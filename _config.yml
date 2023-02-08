@@ -290,3 +290,13 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+# Defaults
+defaults:
+  # _Pages
+  - scope:
+      path: ""
+      type: Pages
+    values:
+      layout: single
+      author_profile: true
