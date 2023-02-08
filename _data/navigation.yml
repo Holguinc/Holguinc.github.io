@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: 
   - title: "Current Research"
-    url:
+    url: /CurrentResearch/
   - title: "Research Experience"
     url: /Research/
   - title: "Curriculum Vitae"
