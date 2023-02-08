@@ -5,4 +5,4 @@ permalink: /CurriculumVitae/
 author_profile: true 
 ---
 
-Testing
+Curriculum Vitae
