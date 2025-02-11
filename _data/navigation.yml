@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Current Research"
+    url: /Current Research/
+  - title: "Research Experience"
+    url: /Research Experience/
+  - title: "Curriculum Vitae"
+    url: /Curriculum Vitae/
+  - title: "Leadership and Outreach"
+    url: /Leadership and Outreach/
